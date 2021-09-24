@@ -10,7 +10,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=JakeHamblin&label=Views&color=blue&style=plastic) 
 
-My name is Jake Hamblin and I'm a Computer Science student. I'm currently pursuing a Bachelors of Science in Computer Science. At the current moment, I'm at Sinclair Community College for my undergraduate and will transfer to Wright State to finish my degree. I started website development back in 2018 and have had a passion for creating software ever since.
+Winter System Started In June 2021, Started By ZED Official. We try to bring the best products to the roleplay expirence. WS sells many things and we make sure it’s nice, cheap and fair. If your looking to buy anything as CADs, Logos, servers and systems, bot hosting, web hosting . We do not over price anything and make sure everyone is happy for what they got, if your not willing to spend money we also have challenges as a way to earn products.
 
 
 [![DOD Badge](https://img.shields.io/badge/TEAM-JAKE%20HAMBLIN-17a6ec?style=for-the-badge)](https://hambl.in/discord)
