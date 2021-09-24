@@ -15,13 +15,6 @@ My name is Jake Hamblin and I'm a Computer Science student. I'm currently pursui
 
 [![DOD Badge](https://img.shields.io/badge/TEAM-JAKE%20HAMBLIN-17a6ec?style=for-the-badge)](https://hambl.in/discord)
 
-### Some Highlights:
-
-- ℹ️ &nbsp; [Splash Page](https://github.com/JakeHamblin/Splash-Page)
-- 🏪 &nbsp; [Store Template](https://github.com/JakeHamblin/Store-Template)
-- 📥 &nbsp; [Client Area](https://github.com/JakeHamblin/Client-Area)
-- 💬 &nbsp; [Community Template](https://github.com/JakeHamblin/Community-Template)
-
 ### Languages and Tools:
 
 ![](https://img.shields.io/badge/PHP-43853D?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
