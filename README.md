@@ -13,7 +13,7 @@
 Winter System Started In June 2021, Started By ZED Official. We try to bring the best products to the roleplay expirence. WS sells many things and we make sure it’s nice, cheap and fair. If your looking to buy anything as CADs, Logos, servers and systems, bot hosting, web hosting . We do not over price anything and make sure everyone is happy for what they got, if your not willing to spend money we also have challenges as a way to earn products.
 
 
-[![DOD Badge](https://img.shields.io/badge/TEAM-JAKE%20HAMBLIN-17a6ec?style=for-the-badge)](https://hambl.in/discord)
+[![DOD Badge](https://img.shields.io/endpoint?label=Team&logo=Winter%20Systems&logoColor=%234D83DE&style=for-the-badge&url=https%3A%2F%2Fwinter-system.com%2F)]
 
 ### Languages and Tools:
 
