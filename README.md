@@ -10,7 +10,13 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=JakeHamblin&label=Views&color=blue&style=plastic) 
 
-Winter System Started In June 2021, Started By ZED Official. We try to bring the best products to the roleplay expirence. WS sells many things and we make sure it’s nice, cheap and fair. If your looking to buy anything as CADs, Logos, servers and systems, bot hosting, web hosting . We do not over price anything and make sure everyone is happy for what they got, if your not willing to spend money we also have challenges as a way to earn products.
+In late 2024, Hector Eduardo De La Cruz Lerma established Winter Storm Systems LLC with a vision of providing approachable yet high-caliber web development resources. With several years of experience helping a variety of clients launch and optimize their digital presence, Hector set out to offer customized solutions through his new startup.
+
+Operating initially from a humble home office, Hector has devoted long hours to laying the foundation of WSS. In these early stages, he is focused on understanding prospective customers and designing service packages to meet their unique needs. Hector's goal is to empower both individuals and organizations through personalized, tech-enabled strategies.
+
+Now at the beginning of this journey, Hector and Winter Storm Systems are dedicated to cultivating success for clients both large and small. Whether crafting a professional online profile or devising an encompassing digital roadmap, WSS aims to capture the true essence of each brand. Although still a lean operation, Hector's expertise and hands-on leadership are fully dedicated to every project.
+
+As WSS continues to establish its model and brand, the future holds endless possibilities. Hector welcomes new partners to join in shaping how the startup innovates and thrives and to help more clients achieve their online visions. The potential is great - please reach out to begin discussing your goals and how Winter Storm Systems can help actualize them.
 
 
 [![DOD Badge](https://img.shields.io/endpoint?label=Team&logo=Winter%20Systems&logoColor=%234D83DE&style=for-the-badge&url=https%3A%2F%2Fwinter-system.com%2F)]
