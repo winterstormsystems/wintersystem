@@ -1,6 +1,6 @@
 ## Hey 👋, we are [Winter Storm Systems LLC](https://winterstormsystems.com)
 
-<img align="right" height="60" width="60" alt="" src="[https://winter-system/assets/img/wsfavicon.png](https://winterstormsystems.com/img/logo.png)"/>
+<img align="right" height="60" width="60" alt="" src="https://winterstormsystems.com/img/logo.png"/>
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://hambl.in/discord)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://hambl.in/youtube)
