@@ -1,4 +1,4 @@
-## Hey 👋, we are [Winter Systems](https://winter-system.com)
+## Hey 👋, we are [Winter Storm Systems LLC](https://winterstormsystems.com)
 
 <img align="right" height="60" width="60" alt="" src="https://winter-system/assets/img/wsfavicon.png"/>
 
