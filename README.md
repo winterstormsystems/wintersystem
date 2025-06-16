@@ -52,8 +52,8 @@ Have a unique project or request? [Let’s talk.](https://discord.gg/Qm8N7vC4U8)
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JakeHamblin&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeHamblin&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=winterstormsystems&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterstormsystems&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 ---
