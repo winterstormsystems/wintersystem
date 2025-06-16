@@ -1,57 +1,67 @@
-## Hey 👋, we are [Winter Storm Systems LLC](https://winterstormsystems.com)
+# ❄️ Winter Storm Systems LLC
 
-<img align="right" height="60" width="60" alt="" src="https://winterstormsystems.com/img/logo.png"/>
+> Professional-grade hosting, web development, and automation solutions — tailored for developers, creators, and growing businesses.
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/Qm8N7vC4U8)
-<!--[![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://hambl.in/youtube)-->
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://winterstormsystems.com)
-<!--[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://hambl.in/twitter)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://hambl.in/github)-->
+[![Discord](https://img.shields.io/badge/Join%20Our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Qm8N7vC4U8)
+[![Website](https://img.shields.io/badge/Visit%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://winterstormsystems.com)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=JakeHamblin&label=Views&color=blue&style=plastic) 
+---
 
-In late 2024, Hector Eduardo De La Cruz Lerma established Winter Storm Systems LLC with a vision of providing approachable yet high-caliber web development resources. With several years of experience helping a variety of clients launch and optimize their digital presence, Hector set out to offer customized solutions through his new startup.
+## 💼 What We Do
 
-Operating initially from a humble home office, Hector has devoted long hours to laying the foundation of WSS. In these early stages, he is focused on understanding prospective customers and designing service packages to meet their unique needs. Hector's goal is to empower both individuals and organizations through personalized, tech-enabled strategies.
+Winter Storm Systems LLC is an independent tech provider offering:
 
-Now at the beginning of this journey, Hector and Winter Storm Systems are dedicated to cultivating success for clients both large and small. Whether crafting a professional online profile or devising an encompassing digital roadmap, WSS aims to capture the true essence of each brand. Although still a lean operation, Hector's expertise and hands-on leadership are fully dedicated to every project.
+- 🚀 **VPS & Shared Hosting** — Fast, affordable, and reliable infrastructure
+- 🌐 **Web Development** — From custom sites to e-commerce and client dashboards
+- 🤖 **Discord Bots** — Powerful, secure bots with license control & API support
+- 🔐 **License Systems** — Encrypted licensing, obfuscation, and product control
+- 🎮 **Game Servers** *(coming soon)* — Seeking community feedback on preferred panels!
 
-As WSS continues to establish its model and brand, the future holds endless possibilities. Hector welcomes new partners to join in shaping how the startup innovates and thrives and to help more clients achieve their online visions. The potential is great - please reach out to begin discussing your goals and how Winter Storm Systems can help actualize them.
+Have a unique project or request? [Let’s talk.](https://discord.gg/Qm8N7vC4U8)
 
+---
 
-[![DOD Badge](https://img.shields.io/endpoint?label=Team&logo=Winter%20Systems&logoColor=%234D83DE&style=for-the-badge&url=https%3A%2F%2Fwinter-system.com%2F)]
+## 🛠️ Tech We Use
 
-### Languages and Tools:
+**Languages & Frameworks**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-![](https://img.shields.io/badge/PHP-43853D?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![](https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/C++-005085?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+**Tools & Infrastructure**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-181717?style=flat&logo=pterodactyl&logoColor=white)
+![WHMCS](https://img.shields.io/badge/WHMCS-6283D1?style=flat&logo=whmcs&logoColor=white)
+![Virtualizor](https://img.shields.io/badge/Virtualizor-007BFF?style=flat&logo=proxmox&logoColor=white)
 
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Linux-d94100?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)&nbsp;
+---
 
-### ⚙️ &nbsp;GitHub Stats
+## 📦 Current Focus
 
-<p align="left">
-<a href="https://github.com/JakeHamblin">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JakeHamblin&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JakeHamblin&layout=compact&langs_count=8&theme=react"/>
-</a>
+- 🛍️ Launching a new **script & software marketplace**
+- 🎯 Finalizing **multi-product licensing system**
+- 🧠 Building smarter **bot hosting automation**
+- 🎮 Looking for the best **game server panel** — [suggest one on Discord!](https://discord.gg/Qm8N7vC4U8)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JakeHamblin&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeHamblin&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 ---
 
-<h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
+## 🤝 Let's Build Together
+
+Have an idea? Need support? Want to collaborate?
+
+📬 [Reach out on Discord](https://discord.gg/Qm8N7vC4U8) or visit [winterstormsystems.com](https://winterstormsystems.com) to explore how we can work together.
 
 ---
